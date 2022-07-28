@@ -1,1 +1,1 @@
-# template-react
+# template-design-system

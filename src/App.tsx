@@ -1,7 +1,7 @@
 import React, { ReactElement } from "react";
 import { Route, BrowserRouter, Routes } from "react-router-dom";
 
-const repository = "/template-react";
+const repository = "/template-design-system";
 
 const Home = () => <>Home</>;
 const Login = () => <>Login</>;
